@@ -8,15 +8,9 @@
 
 <br>
 
-<a href="https://github.com/Biswa04">
-<img src="https://img.shields.io/badge/GitHub-Biswa04-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/biswadip-das-354b4a278/">
-<img src="https://img.shields.io/badge/LinkedIn-Biswadip%20Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:dasbiswadip785@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://github.com/Biswa04"><img src="https://img.shields.io/badge/GitHub-Biswa04-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/biswadip-das-354b4a278/"><img src="https://img.shields.io/badge/LinkedIn-Biswadip%20Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dasbiswadip785@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br><br>
 
@@ -26,101 +20,126 @@
 
 ---
 
+<div align="center">
+
 ## 👨‍💻 ABOUT ME
+
+<p>
+I'm a <b>Computer Science student</b> focused on building practical software,<br>
+improving problem-solving skills, and preparing for software engineering opportunities.
+</p>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td align="center">
 
-### `> whoami`
-
-I'm a **Computer Science student** focused on building practical software, improving problem-solving skills, and preparing for software engineering opportunities.
-
-- 🔭 Building **AI-powered monitoring projects**
-- 🤝 Interested in collaborating on **AI-powered tools**
-- 🌱 Learning **AI/ML, Agentic AI & Generative AI**
-- 💬 Ask me about **DSA & Full Stack Development**
-- 🎯 Currently focused on **placement-oriented problem solving**
+🔭 <b>Building</b><br>AI-powered monitoring projects
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,git,github&perline=4" />
+🤝 <b>Interested in</b><br>AI-powered tools
 
-<br><br>
+</td>
+<td align="center">
 
-`BUILD → LEARN → DEBUG → REPEAT`
+🌱 <b>Learning</b><br>AI/ML • Agentic AI • GenAI
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+💬 <b>Ask me about</b><br>DSA & Full Stack Development
+
+</td>
+<td align="center">
+
+🎯 <b>Current Focus</b><br>Placement-oriented problem solving
+
+</td>
+<td align="center">
+
+⚡ <b>Mindset</b><br>Build • Learn • Debug • Repeat
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 # 🧰 TECH STACK
 
 ### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&perline=5" />
 
 ### 🌐 Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,nextjs,angular,bootstrap,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,nextjs,angular,bootstrap,tailwind&perline=9" />
 
-### ☁️ Cloud, Database & Tools
+### ☁️ Cloud • Database • Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=gcp,aws,mysql,postgres,git,github,docker,jenkins,anaconda,numpy,pandas,photoshop" />
-</p>
+<img src="https://skillicons.dev/icons?i=gcp,aws,mysql,postgres,git,github,docker,jenkins,anaconda,numpy,pandas,photoshop&perline=6" />
 
-<img src="https://img.shields.io/badge/Objective--C-111827?style=for-the-badge&logo=apple&logoColor=white" />
+<br><br>
+
+<img src="https://img.shields.io/badge/Objective--C-111827?style=for-the-badge&logo=apple&logoColor=white"/>
+
+</div>
 
 ---
+
+<div align="center">
 
 # 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-## 🛒 Amazon UI Clone
+<h2>🛒 Amazon UI Clone</h2>
 
-A frontend recreation of the Amazon shopping interface, focused on layout, styling, responsive sections and reusable UI structure.
+<p>
+Frontend recreation of the Amazon shopping interface with<br>
+structured layout, styling and responsive UI sections.
+</p>
 
-**Stack**
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-`HTML` `CSS` `JavaScript`
-
-<br>
+<br><br>
 
 <a href="https://biswa04.github.io/Amazon-UI-Clone/">
 <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-7C3AED?style=for-the-badge"/>
 </a>
+
 <a href="https://github.com/Biswa04/Amazon-UI-Clone">
 <img src="https://img.shields.io/badge/💻%20SOURCE-111827?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-## 🎮 Tic-Tac-Toe
+<h2>🎮 Tic-Tac-Toe</h2>
 
-A browser-based Tic-Tac-Toe game with player turns, winner detection, draw handling, reset/new-game controls and visual effects.
+<p>
+Interactive browser game with player turns, winner detection,<br>
+draw handling, reset controls and visual effects.
+</p>
 
-**Stack**
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-`HTML` `CSS` `JavaScript`
-
-<br>
+<br><br>
 
 <a href="https://biswa04.github.io/Tic-Tac-Toe-Game/">
 <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-7C3AED?style=for-the-badge"/>
 </a>
+
 <a href="https://github.com/Biswa04/Tic-Tac-Toe-Game">
 <img src="https://img.shields.io/badge/💻%20SOURCE-111827?style=for-the-badge&logo=github"/>
 </a>
@@ -129,30 +148,42 @@ A browser-based Tic-Tac-Toe game with player turns, winner detection, draw handl
 </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 # 🧠 DSA JOURNEY
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java" width="70"/>
+<img src="https://skillicons.dev/icons?i=java" width="75"/>
 
 ### `JAVA + PROBLEM SOLVING`
 
-</div>
+<br>
 
-| Phase | Focus |
-|:---:|:---|
-| `01` | Arrays |
-| `02` | Strings |
-| `03` | Searching & Sorting |
-| `04` | Stack & Queue |
-| `05` | Linked List |
-| `06` | Hashing |
-| `07` | Trees & Graphs |
-| `08` | Advanced Problem Solving |
+<table>
+<tr>
+<td align="center"><b>01</b><br>Arrays</td>
+<td align="center">→</td>
+<td align="center"><b>02</b><br>Strings</td>
+<td align="center">→</td>
+<td align="center"><b>03</b><br>Searching & Sorting</td>
+<td align="center">→</td>
+<td align="center"><b>04</b><br>Stack & Queue</td>
+</tr>
+<tr>
+<td align="center"><b>05</b><br>Linked List</td>
+<td align="center">→</td>
+<td align="center"><b>06</b><br>Hashing</td>
+<td align="center">→</td>
+<td align="center"><b>07</b><br>Trees & Graphs</td>
+<td align="center">→</td>
+<td align="center"><b>08</b><br>Advanced Problem Solving</td>
+</tr>
+</table>
 
-<div align="center">
+<br>
 
 <img src="https://img.shields.io/badge/FOCUS-PLACEMENT%20PREPARATION-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-111827?style=for-the-badge"/>
@@ -161,39 +192,52 @@ A browser-based Tic-Tac-Toe game with player turns, winner detection, draw handl
 
 ---
 
-# 📊 GITHUB
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Biswa04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="175"/>
+# 📊 GITHUB ANALYTICS
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswa04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Biswa04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Biswa04&theme=tokyonight&hide_border=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswa04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswa04&theme=tokyo-night&hide_border=true&area=true" width="92%"/>
+<img src="https://streak-stats.demolab.com?user=Biswa04&theme=tokyonight&hide_border=true" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswa04&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 
 </div>
 
 ---
+
+<div align="center">
 
 # 🎯 CURRENT MISSION
 
-<div align="center">
+<table>
+<tr>
+<td align="center">01<br><b>Java Fundamentals</b></td>
+<td align="center">02<br><b>Problem Solving</b></td>
+<td align="center">03<br><b>Placement Coding</b></td>
+</tr>
+<tr>
+<td align="center">04<br><b>Time & Space Complexity</b></td>
+<td align="center">05<br><b>Interview-Ready Solutions</b></td>
+<td align="center">→<br><b>Keep Improving</b></td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/01-Strengthen%20Java%20Fundamentals-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/02-Improve%20Problem%20Solving-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/03-Placement%20Coding-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/04-Time%20%26%20Space%20Complexity-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/05-Interview--Ready%20Solutions-7C3AED?style=for-the-badge"/>
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-7C3AED?style=for-the-badge"/>
 
 </div>
 
 ---
+
+<div align="center">
 
 # 🏆 ACHIEVEMENTS
 
@@ -201,69 +245,77 @@ A browser-based Tic-Tac-Toe game with player turns, winner detection, draw handl
 <tr>
 <td align="center" width="25%">
 
-### 🥇
-**100+**
-
-Skill Badges
+<h2>🥇</h2>
+<b>100+ Skill Badges</b><br>
+Cloud & Technology
 
 </td>
 <td align="center" width="25%">
 
-### ☁️
-**Campus Top Performer**
-
+<h2>☁️</h2>
+<b>Campus Top Performer</b><br>
 Google Cloud Study Jam
 
 </td>
 <td align="center" width="25%">
 
-### 🚀
-**Coding**
-
-Multiple Milestones
+<h2>🚀</h2>
+<b>Coding Milestones</b><br>
+Problem Solving
 
 </td>
 <td align="center" width="25%">
 
-### 🎤
-**Coordinator**
-
-College Fest
+<h2>🎤</h2>
+<b>College Fest Coordinator</b><br>
+Leadership & Teamwork
 
 </td>
 </tr>
 </table>
 
----
-
-# 📜 CERTIFICATIONS
-
-<p align="center">
-<img src="https://img.shields.io/badge/IBM%20SkillsBuild%20%2F%20CSRBOX-Virtual%20Internship-0F62FE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-86BC25?style=for-the-badge"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/IBM%20SkillsBuild-Web%20Development%20Fundamentals-0F62FE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IBM%20Developer%20Skills%20Network-Data%20Analysis%20with%20Python-0F62FE?style=for-the-badge"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-FF6F00?style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ KEEP BUILDING. KEEP SOLVING. KEEP LEARNING.
+# 📜 CERTIFICATIONS
 
-`Java` • `DSA` • `Full Stack` • `AI/ML`
+<img src="https://img.shields.io/badge/IBM%20SkillsBuild%20%2F%20CSRBOX-Virtual%20Internship-0F62FE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-86BC25?style=for-the-badge"/>
 
-<br>
+<br><br>
+
+<img src="https://img.shields.io/badge/IBM%20SkillsBuild-Web%20Development%20Fundamentals-0F62FE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IBM%20Developer%20Skills%20Network-Data%20Analysis%20with%20Python-0F62FE?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-FF6F00?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 LET'S CONNECT
 
 <a href="https://github.com/Biswa04">
-<img src="https://img.shields.io/badge/Follow%20the%20Journey-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Biswa04-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://www.linkedin.com/in/biswadip-das-354b4a278/">
+<img src="https://img.shields.io/badge/LinkedIn-Biswadip%20Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dasbiswadip785@gmail.com">
+<img src="https://img.shields.io/badge/Email-dasbiswadip785%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+### ⚡ `BUILD • LEARN • SOLVE • REPEAT`
 
 </div>
