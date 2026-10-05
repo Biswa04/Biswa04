@@ -254,15 +254,11 @@ Advanced Problem Solving
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biswa04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Biswa04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswa04&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswa04&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Biswa04&theme=tokyonight&hide_border=true" />
 
@@ -290,11 +286,7 @@ Advanced Problem Solving
 
 ## 🧊 3D Contribution Graph
 
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
-
-</div>
+> 🚧 3D contribution graph will be added through GitHub Actions.
 
 > ⚠️ This section requires the GitHub Actions 3D contribution workflow in the profile repository.
 
