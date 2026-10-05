@@ -120,7 +120,7 @@ Problem Solving   ████████░░  80%
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gcp,aws,photoshop" />
-  <img src="https://cdn.simpleicons.org/canva?viewbox=auto" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/canva.svg" width="48" height="48" />
 </p>
 
 ---
