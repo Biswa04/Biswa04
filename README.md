@@ -121,7 +121,7 @@ Problem Solving   ████████░░  80%
 <p align="center">
 <img src="https://skillicons.dev/icons?i=gcp,aws,photoshop" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://cdn.simpleicons.org/canva" width="48" height="48" />
 </p>
 
 ---
