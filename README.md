@@ -1,262 +1,183 @@
-<!-- ========================= -->
-<!--        HERO SECTION       -->
-<!-- ========================= -->
-
 <div align="center">
 
-# 👋 Hi, I'm Biswadip Das
+# ⚡ BISWADIP DAS
+### `Java Developer` • `Full-Stack Developer` • `AI/ML Learner`
 
-### 💻 Java Developer • DSA Enthusiast • Full Stack Developer • AI/ML Explorer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+projects+%7C+Solving+DSA+%7C+Preparing+for+placements;Java+%7C+Full-Stack+Development+%7C+Data+Analytics;Always+learning%2C+always+building+%F0%9F%9A%80" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+%7C+DSA+%7C+Full+Stack+Development;Building+Projects+%26+Solving+Problems;Exploring+AI%2FML%2C+Agentic+AI+%26+Generative+AI;Always+Learning+Something+New+%F0%9F%9A%80" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00A8E8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/biswadip-das-354b4a278)
+[![Email](https://img.shields.io/badge/Email-FF4B8B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasbiswadip785@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Biswa04)
 
-<br>
-
-<a href="https://github.com/Biswa04">
-  <img src="https://img.shields.io/badge/GitHub-Biswa04-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/biswadip-das-354b4a278/">
-  <img src="https://img.shields.io/badge/LinkedIn-Biswadip%20Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:dasbiswadip785@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Biswa04&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+![Profile Views](https://komarev.com/ghpvc/?username=Biswa04&style=for-the-badge&color=00F7FF)
 
 </div>
 
 ---
 
-<!-- ========================= -->
-<!--         ABOUT ME          -->
-<!-- ========================= -->
-
-## 🚀 About Me
-
-<table>
-<tr>
-<td width="55%">
-
-🎓 Computer Science Engineering student
-
-💻 Passionate about **Java, DSA & Full Stack Development**
-
-🤖 Exploring **AI/ML, Agentic AI & Generative AI**
-
-🧠 Practicing coding and problem solving for placements
-
-🚀 Building practical projects while continuously learning
-
-🤝 Interested in collaborating on innovative and useful projects
-
-</td>
-
-<td width="45%">
+## `01` // ABOUT ME
 
 ```text
-💡 My Current Journey
-
-Java              █████████░  90%
-DSA               ████████░░  80%
-Web Development   ████████░░  80%
-AI / ML           ██████░░░░  60%
-Problem Solving   ████████░░  80%
+┌──────────────────────────────────────────────────────────────┐
+│  $ whoami                                                    │
+│                                                              │
+│  → Computer Science Engineering student                     │
+│  → Focused on Java, DSA & Full-Stack Development             │
+│  → Exploring AI/ML, Agentic AI & Generative AI               │
+│  → Building practical projects and placement-ready skills   │
+│  → Interested in AI-powered tools and developer products     │
+│                                                              │
+│  status: ONLINE  ●                                           │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-</td>
-</tr>
-</table>
+---
+
+## `02` // CURRENT MISSION
+
+```text
+> booting placement_preparation.exe ...
+
+[✓] Strengthen Java Fundamentals
+[✓] Improve Problem Solving
+[✓] Practice Placement-Oriented Coding Questions
+[✓] Understand Time & Space Complexity
+[→] Build Clean & Interview-Friendly Solutions
+
+SYSTEM STATUS :  █████████████████░░░  IN PROGRESS
+```
 
 ---
 
-<!-- ========================= -->
-<!--       CURRENT FOCUS       -->
-<!-- ========================= -->
+## `03` // TECH STACK
 
-## ⚡ Currently Focusing On
-
-<div align="center">
-
-| 🧠 DSA & Problem Solving | 🌐 Full Stack | 🤖 AI / ML |
-|:---:|:---:|:---:|
-| Java | Frontend Development | AI/ML |
-| Algorithms | Backend Development | Agentic AI |
-| Placement Preparation | Project Building | Generative AI |
-
-</div>
-
----
-
-<!-- ========================= -->
-<!--        TECH STACK         -->
-<!-- ========================= -->
-
-## 💻 Tech Stack
-
-### 👨‍💻 Programming Languages
-
+### 💻 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 </p>
 
 ### 🌐 Web Development
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind,bootstrap,nextjs,angular" />
 </p>
 
-### 🗄️ Database & Tools
-
+### ☁️ Cloud, Database & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,vscode" />
-</p>
-
-### ☁️ Cloud & Other Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,photoshop" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/canva.svg" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=gcp,aws,mysql,postgres,git,github,docker,jenkins,photoshop" />
 </p>
 
 ---
 
-<!-- ========================= -->
-<!--       FEATURED PROJECTS   -->
-<!-- ========================= -->
-
-## 🚀 Featured Projects
+## `04` // FEATURED PROJECTS
 
 <table>
 <tr>
-
 <td width="50%">
 
 ### 🛒 Amazon UI Clone
 
-A frontend recreation of the Amazon interface built using **HTML & CSS**.
+`HTML` `CSS` `Responsive UI`
 
-**Tech:**
-`HTML` `CSS`
+A frontend recreation of the Amazon shopping interface with structured components, navigation, product sections and responsive styling.
 
-<a href="https://biswa04.github.io/Amazon-UI-Clone/">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit-00C853?style=for-the-badge"/>
-</a>
+**Live:** [Amazon UI Clone](https://biswa04.github.io/Amazon-UI-Clone/)
 
-<a href="https://github.com/Biswa04/Amazon-UI-Clone">
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+**Code:** [GitHub Repository](https://github.com/Biswa04/Amazon-UI-Clone)
 
 </td>
-
 <td width="50%">
 
 ### 🎮 Tic-Tac-Toe Game
 
-Interactive browser-based Tic-Tac-Toe game with winner detection, draw detection, reset functionality and animations.
-
-**Tech:**
 `HTML` `CSS` `JavaScript`
 
-<a href="https://biswa04.github.io/Tic-Tac-Toe-Game/">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Play-00C853?style=for-the-badge"/>
-</a>
+Interactive browser game with turn handling, winner detection, draw detection, reset/new-game flow and visual feedback.
 
-<a href="https://github.com/Biswa04/Tic-Tac-Toe-Game">
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+**Live:** [Play Game](https://biswa04.github.io/Tic-Tac-Toe-Game/)
+
+**Code:** [GitHub Repository](https://github.com/Biswa04/Tic-Tac-Toe-Game)
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-<!-- ========================= -->
-<!--        DSA JOURNEY        -->
-<!-- ========================= -->
-
-## 🧠 Java & DSA Journey
-
-I'm continuously building my **Java DSA problem-solving skills** with a focus on placement preparation.
+## `05` // JAVA DSA JOURNEY
 
 ```text
-Arrays
-   ↓
-Strings
-   ↓
-Searching & Sorting
-   ↓
-Stack & Queue
-   ↓
-Linked List
-   ↓
-Hashing
-   ↓
-Trees & Graphs
-   ↓
-Advanced Problem Solving
+╭──────────────────────────────────────────────────────────────╮
+│  $ java dsa --learning-path                                  │
+│                                                              │
+│  [01] Arrays                                                  │
+│       ↓                                                      │
+│  [02] Strings                                                 │
+│       ↓                                                      │
+│  [03] Searching & Sorting                                    │
+│       ↓                                                      │
+│  [04] Stack & Queue                                          │
+│       ↓                                                      │
+│  [05] Linked List                                            │
+│       ↓                                                      │
+│  [06] Hashing                                                │
+│       ↓                                                      │
+│  [07] Trees & Graphs                                         │
+│       ↓                                                      │
+│  [08] Advanced Problem Solving                               │
+│                                                              │
+│  status: ████████████████░░░░  progressing                   │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-### 🎯 Goals
-
-- Strengthen Java fundamentals
-- Improve problem-solving ability
-- Practice placement-oriented coding questions
-- Understand time & space complexity
-- Build clean and interview-friendly solutions
+> **Goal:** strengthen Java fundamentals, solve placement-oriented DSA problems, and develop clean interview-ready solutions.
 
 ---
 
-<!-- ========================= -->
-<!--        ACHIEVEMENTS       -->
-<!-- ========================= -->
+## `06` // CERTIFICATIONS & LEARNING
 
-## 🏆 Achievements
+| STATUS | CERTIFICATION / TRAINING |
+|:---:|:---|
+| `✓` | IBM SkillsBuild / CSRBOX — Virtual Internship |
+| `✓` | Deloitte — Data Analytics Job Simulation |
+| `✓` | IBM SkillsBuild — Web Development Fundamentals |
+| `✓` | IBM Developer Skills Network — Data Analysis with Python |
+| `✓` | NPTEL — Cloud Computing |
+
+```text
+$ learning --status
+
+5 learning milestones recorded
+> continue_learning = true
+```
+
+---
+
+## `07` // ACHIEVEMENTS
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│ 🏅  100+ SKILL BADGES                                       │
+│     Cloud & Technology                                      │
+├──────────────────────────────────────────────────────────────┤
+│ 🚀  MULTIPLE CODING MILESTONES                              │
+│     Problem Solving                                         │
+├──────────────────────────────────────────────────────────────┤
+│ ☁️  CAMPUS TOP PERFORMER                                    │
+│     Google Cloud Study Jam                                  │
+├──────────────────────────────────────────────────────────────┤
+│ 🎤  COLLEGE FEST COORDINATOR                                │
+│     Leadership & Teamwork                                   │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## `08` // GITHUB ANALYTICS
 
 <div align="center">
 
-| 🏅 Achievement | 🎯 Area |
-|:---|:---:|
-| 100+ Skill Badges | Cloud & Technology |
-| Multiple Coding Milestones | Problem Solving |
-| Campus Top Performer | Google Cloud Study Jam |
-| College Fest Coordinator | Leadership & Teamwork |
-
-</div>
-
----
-
-<!-- ========================= -->
-<!--       CERTIFICATIONS      -->
-<!-- ========================= -->
-
-## 📜 Certifications & Learning
-
-- IBM SkillsBuild / CSRBOX — Virtual Internship
-- Deloitte — Data Analytics Job Simulation
-- IBM SkillsBuild — Web Development Fundamentals
-- IBM Developer Skills Network — Data Analysis with Python
-- NPTEL — Cloud Computing
-
----
-
-<!-- ========================= -->
-<!--       GITHUB STATS        -->
-<!-- ========================= -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Biswa04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswa04&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Biswa04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswa04&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
 <br><br>
 
@@ -266,97 +187,40 @@ Advanced Problem Solving
 
 ---
 
-<!-- ========================= -->
-<!--      ACTIVITY GRAPH       -->
-<!-- ========================= -->
-
-## 📈 Contribution Activity
+## `09` // CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswa04&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswa04&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
 ---
 
-<!-- ========================= -->
-<!--       3D CONTRIBUTION     -->
-<!-- ========================= -->
+## `10` // DEVELOPER TERMINAL
 
-## 🧊 3D Contribution Graph
-
-> 🚧 3D contribution graph will be added through GitHub Actions.
-
-> ⚠️ This section requires the GitHub Actions 3D contribution workflow in the profile repository.
-
----
-
-<!-- ========================= -->
-<!--      CONTRIBUTION SNAKE   -->
-<!-- ========================= -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Biswa04/Biswa04/output/github-contribution-grid-snake.svg" width="95%"/>
-
-</div>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ biswadip@github:~$ ./developer_profile                      │
+│                                                              │
+│ > coding        : ACTIVE                                     │
+│ > learning      : ACTIVE                                     │
+│ > dsa           : IN PROGRESS                                │
+│ > projects      : BUILDING                                   │
+│ > placement     : PREPARING                                  │
+│ > curiosity     : UNLIMITED                                  │
+│                                                              │
+│ $ echo "Keep building. Keep learning. Keep improving."       │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-<!-- ========================= -->
-<!--        GITHUB TROPHIES    -->
-<!-- ========================= -->
-
-## 🏆 GitHub Trophies
+## `11` // RANDOM DEV QUOTE
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Biswa04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%"/>
-
-</div>
-
----
-
-<!-- ========================= -->
-<!--       RANDOM QUOTE        -->
-<!-- ========================= -->
-
-## 💭 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-<!-- ========================= -->
-<!--        CONNECT            -->
-<!-- ========================= -->
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/biswadip-das-354b4a278/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Biswa04">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:dasbiswadip785@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-### ⭐ If you like my projects, consider giving them a star!
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
 
@@ -364,8 +228,8 @@ Advanced Problem Solving
 
 <div align="center">
 
-### 🚀 Keep Learning • Keep Building • Keep Growing
+### `while(alive) { learn(); build(); repeat(); }`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+**Made with ☕ + Java + curiosity**
 
 </div>
