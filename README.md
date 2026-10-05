@@ -1,19 +1,180 @@
-## Hi there 👋
+<!-- ========================= -->
+<!--        HERO SECTION       -->
+<!-- ========================= -->
 
-# 💫 About Me:
-🔭 I’m currently working on AI-powered monitoring projects<br>👯 I’m looking to collaborate on AI-powered tools <br>🤝 I’m looking for help with scaling products & growth strategies<br>🌱 I’m currently learning AI/ML, Agentic AI, Generative AI<br>💬 Ask me about DSA & Full Stack Development  <br>
+<div align="center">
 
+# 👋 Hi, I'm Biswadip Das
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biswadip-das-354b4a278) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dasbiswadip785@gmail.com) 
+### 💻 Java Developer • DSA Enthusiast • Full Stack Developer • AI/ML Explorer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+%7C+DSA+%7C+Full+Stack+Development;Building+Projects+%26+Solving+Problems;Exploring+AI%2FML%2C+Agentic+AI+%26+Generative+AI;Always+Learning+Something+New+%F0%9F%9A%80" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+
+<a href="https://github.com/Biswa04">
+  <img src="https://img.shields.io/badge/GitHub-Biswa04-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/biswadip-das-354b4a278/">
+  <img src="https://img.shields.io/badge/LinkedIn-Biswadip%20Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dasbiswadip785@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Biswa04&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Biswa04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ========================= -->
+<!--         ABOUT ME          -->
+<!-- ========================= -->
+
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="55%">
+
+🎓 Computer Science Engineering student
+
+💻 Passionate about **Java, DSA & Full Stack Development**
+
+🤖 Exploring **AI/ML, Agentic AI & Generative AI**
+
+🧠 Practicing coding and problem solving for placements
+
+🚀 Building practical projects while continuously learning
+
+🤝 Interested in collaborating on innovative and useful projects
+
+</td>
+
+<td width="45%">
+
+```text
+💡 My Current Journey
+
+Java              █████████░  90%
+DSA               ████████░░  80%
+Web Development   ████████░░  80%
+AI / ML           ██████░░░░  60%
+Problem Solving   ████████░░  80%
+
+</td> </tr> </table>
+<!-- ========================= --> <!-- CURRENT FOCUS --> <!-- ========================= -->
+⚡ Currently Focusing On
+<div align="center">
+🧠 DSA & Problem Solving	🌐 Full Stack	🤖 AI / ML
+Java	Frontend Development	AI/ML
+Algorithms	Backend Development	Agentic AI
+Placement Preparation	Project Building	Generative AI
+</div>
+<!-- ========================= --> <!-- TECH STACK --> <!-- ========================= -->
+💻 Tech Stack
+👨‍💻 Programming Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" /> </p>
+🌐 Web Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,bootstrap,tailwind" /> </p>
+🗄️ Database & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,vscode" /> </p>
+☁️ Cloud & Other Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=gcp,aws,canva,photoshop" /> </p>
+<!-- ========================= --> <!-- FEATURED PROJECTS --> <!-- ========================= -->
+🚀 Featured Projects
+<table> <tr> <td width="50%">
+🛒 Amazon UI Clone
+
+A frontend recreation of the Amazon interface built using HTML & CSS.
+
+Tech:
+HTML CSS
+
+<a href="https://biswa04.github.io/Amazon-UI-Clone/"> <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit-00C853?style=for-the-badge"/> </a> <a href="https://github.com/Biswa04/Amazon-UI-Clone"> <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/> </a> </td> <td width="50%">
+🎮 Tic-Tac-Toe Game
+
+Interactive browser-based Tic-Tac-Toe game with winner detection, draw detection, reset functionality and animations.
+
+Tech:
+HTML CSS JavaScript
+
+<a href="https://biswa04.github.io/Tic-Tac-Toe-Game/"> <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Play-00C853?style=for-the-badge"/> </a> <a href="https://github.com/Biswa04/Tic-Tac-Toe-Game"> <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/> </a> </td> </tr> </table>
+<!-- ========================= --> <!-- DSA JOURNEY --> <!-- ========================= -->
+🧠 Java & DSA Journey
+
+I'm continuously building my Java DSA problem-solving skills with a focus on placement preparation.
+
+Arrays
+   ↓
+Strings
+   ↓
+Searching & Sorting
+   ↓
+Stack & Queue
+   ↓
+Linked List
+   ↓
+Hashing
+   ↓
+Trees & Graphs
+   ↓
+Advanced Problem Solving
+🎯 Goals
+Strengthen Java fundamentals
+Improve problem-solving ability
+Practice placement-oriented coding questions
+Understand time & space complexity
+Build clean and interview-friendly solutions
+<!-- ========================= --> <!-- ACHIEVEMENTS --> <!-- ========================= -->
+🏆 Achievements
+<div align="center">
+🏅 Achievement	🎯 Area
+100+ Skill Badges	Cloud & Technology
+Multiple Coding Milestones	Problem Solving
+Campus Top Performer	Google Cloud Study Jam
+College Fest Coordinator	Leadership & Teamwork
+</div>
+<!-- ========================= --> <!-- CERTIFICATIONS --> <!-- ========================= -->
+📜 Certifications & Learning
+IBM SkillsBuild / CSRBOX — Virtual Internship
+Deloitte — Data Analytics Job Simulation
+IBM SkillsBuild — Web Development Fundamentals
+IBM Developer Skills Network — Data Analysis with Python
+<!-- ========================= --> <!-- GITHUB STATS --> <!-- ========================= -->
+📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biswa04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswa04&layout=compact&theme=tokyonight&hide_border=true" /> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=Biswa04&theme=tokyonight&hide_border=true" /> </div>
+<!-- ========================= --> <!-- ACTIVITY GRAPH --> <!-- ========================= -->
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswa04&theme=tokyo-night&hide_border=true&area=true" width="95%"/> </div>
+<!-- ========================= --> <!-- 3D CONTRIBUTION --> <!-- ========================= -->
+🧊 3D Contribution Graph
+<div align="center"> <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%"/> </div>
+
+⚠️ This section requires the GitHub Actions 3D contribution workflow in the profile repository.
+
+<!-- ========================= --> <!-- CONTRIBUTION SNAKE --> <!-- ========================= -->
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/Biswa04/Biswa04/output/github-contribution-grid-snake.svg" width="95%"/> </div>
+<!-- ========================= --> <!-- GITHUB TROPHIES --> <!-- ========================= -->
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Biswa04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%"/> </div>
+<!-- ========================= --> <!-- RANDOM QUOTE --> <!-- ========================= -->
+💭 Developer Quote
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div>
+<!-- ========================= --> <!-- CONNECT --> <!-- ========================= -->
+🤝 Let's Connect
+<div align="center"> <a href="https://www.linkedin.com/in/biswadip-das-354b4a278/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="https://github.com/Biswa04"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/> </a> <a href="mailto:dasbiswadip785@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+<br><br>
+
+⭐ If you like my projects, consider giving them a star!
+</div>
+<div align="center">
+🚀 Keep Learning • Keep Building • Keep Growing
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </div> ```
