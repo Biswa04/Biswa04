@@ -119,9 +119,8 @@ Problem Solving   ████████░░  80%
 ### ☁️ Cloud & Other Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=gcp,aws,photoshop" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/canva" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,photoshop" />
+  <img src="https://cdn.simpleicons.org/canva?viewbox=auto" width="48" height="48" />
 </p>
 
 ---
