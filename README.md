@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/hero.svg?v=1" alt="Biswadip Das: Computer Science student from Kolkata, building practical software" width="100%">
+<img src="assets/hero.svg?v=1" alt="Biswadip Das: Computer Science Engineering student from Kolkata, building practical software" width="100%">
 
-<p><i>I'm a Computer Science student focused on building practical software, improving problem-solving skills, and preparing for software engineering opportunities.</i></p>
+<p><i>I'm a Computer Science Engineering student focused on building practical software, improving problem-solving skills, and preparing for software engineering opportunities.</i></p>
 
 <img src="assets/about-life.svg?v=1" alt="What I work with: problem solving, frontend, backend and data, cloud. Interests: learning new technologies, playing guitar, listening to music" width="100%">
 
