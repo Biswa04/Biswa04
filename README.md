@@ -17,6 +17,7 @@
 | **Amazon UI Clone** | A frontend UI clone of the Amazon website built using HTML and CSS. This project recreates the basic layout, navigation bar, product sections and visual design of Amazon as a practice project for improving frontend development and CSS skills. | HTML, CSS | [Open demo](https://biswa04.github.io/Amazon-UI-Clone/) |
 | **Tic-Tac-Toe Game** | A simple and interactive Tic-Tac-Toe Game built using HTML, CSS, and JavaScript. This project demonstrates core web development concepts including DOM manipulation, event handling, game logic, and responsive UI design. | HTML, CSS, JavaScript | [Open demo](https://biswa04.github.io/Tic-Tac-Toe-Game/) |
 | **Stone-Paper-Scissors Game** | A fun and interactive Stone, Paper & Scissors game built with HTML, CSS, and JavaScript, featuring computer-generated moves, score tracking, win/lose/draw messages, animations, and a reset button. | HTML, CSS, JavaScript | [Open demo](https://biswa04.github.io/Stone-Paper-Scissors-Game/) |
+| **Currency-Converter** | A responsive Currency Converter web app built with HTML, CSS, and JavaScript that converts currencies using live exchange rates from a public API, featuring currency selection, country flags, and an interactive swap option. | HTML, CSS, JavaScript | [Open demo](https://biswa04.github.io/Currency-Converter/) |
 
 <div align="center">
 
